@@ -35,3 +35,5 @@ Interface de navegação para visualizar informações sobre equipes e jogadores
 - Stats gerais (KD, ADR, HS%, etc)
 - Títulos/conquistas individuais
 
+Check it out at
+http://murillovp.com.br/csgocards
